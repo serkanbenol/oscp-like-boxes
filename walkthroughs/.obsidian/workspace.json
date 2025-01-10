@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "bbfcfc4c7fd6a4c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a25a411c4e35c907",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c28969df4d7e85c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Başlıksız.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Başlıksız"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29cead84e8427e65",
+    "type": "split",
+    "children": [
+      {
+        "id": "07f5564cd9e3217f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1470c6e5ca61d437",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "d4591cdb28e02172",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ara"
+            }
+          },
+          {
+            "id": "77b2973cb707b143",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Yer İmleri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1925e2d3c8496871",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4301ce340262dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c0aa3066e69a471",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Başlıksız.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Başlıksız için geri bağlantılar"
+            }
+          },
+          {
+            "id": "c70039d08da6647f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Başlıksız.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Başlıksız'dan giden bağlantılar"
+            }
+          },
+          {
+            "id": "8a390a5fcedc4864",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "148a537d30d8b181",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Başlıksız.md"
+              },
+              "icon": "lucide-list",
+              "title": "Başlıksız ana hatları"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false
+    }
+  },
+  "active": "9c28969df4d7e85c",
+  "lastOpenFiles": [
+    "HTB Lame Walkthrough.md",
+    "Lame/Pasted image 20250110131002.png",
+    "Lame/Pasted image 20250110130844.png",
+    "Lame/Pasted image 20250110130642.png",
+    "Lame/Pasted image 20250110130619.png",
+    "Lame/Pasted image 20250110130544.png",
+    "Lame/Pasted image 20250110130525.png",
+    "Lame/Pasted image 20250110130504.png",
+    "Lame/Pasted image 20250110130356.png",
+    "Lame/HTB Lame Walkthrough.md",
+    "Lame",
+    "Yeni klasör",
+    "Pasted image 20250110131002.png",
+    "Pasted image 20250110130844.png",
+    "Başlıksız.md",
+    "Hoş geldiniz.md"
+  ]
+}
